@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Made By: Nicholas Chrysanthou
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
